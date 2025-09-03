@@ -86,8 +86,8 @@
         { "name": "Movistar Cine Español", "url": "acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668" },
         { "name": "Movistar Acción", "url": "acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53" },
         { "name": "Movistar Comedia", "url": "acestream://90a3ad526f67f987f662eaf7d52e88004c796914" },
-        { "name": "Movistar Drama", "url": "acestream://edee311dc307e1638eeac880b11bb6f4759b0d83" },
-        { "name": "Movistar Hits", "url": "acestream://2b8e5c7438d56541df3467cc5986cf1e66014101" }
+        { "name": "Movistar Drama", "url": "acestream://edee311dc307e1638eeac880b11bb6f4759b0d83" }
+        
       ]
     }
   ]
