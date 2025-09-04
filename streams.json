@@ -70,6 +70,11 @@
       "color": "#8B0000",
       "streams": [
         { "name": "MovistarPlus 1080", "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78" },
+         { "name": "M+ DEPORTES FHD", "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a" },
+         { "name": "M+ DEPORTES 2 FHD", "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c" },
+         { "name": "M+ DEPORTES 3 FHD", "url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee" },
+         { "name": "M+ DEPORTES 4 FHD", "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4" },
+         { "name": "M+ DEPORTES 5 FHD", "url": "acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4" },
         { "name": "TDP FHD", "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230" },
         { "name": "Sky Sports", "url": "acestream://398ee868ca834f48c8b5e503e9e4cd4c11dd5aaa" },
         { "name": "Eurosport 1080", "url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e" },
