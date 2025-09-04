@@ -70,6 +70,7 @@
       "color": "#8B0000",
       "streams": [
         { "name": "MovistarPlus 1080", "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78" },
+        { "name": "TDP FHD", "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230" },
         { "name": "Sky Sports", "url": "acestream://398ee868ca834f48c8b5e503e9e4cd4c11dd5aaa" },
         { "name": "Eurosport 1080", "url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e" },
         { "name": "Eurosport 720", "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a" }
@@ -86,6 +87,7 @@
         { "name": "Movistar Cine Español", "url": "acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668" },
         { "name": "Movistar Acción", "url": "acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53" },
         { "name": "Movistar Comedia", "url": "acestream://90a3ad526f67f987f662eaf7d52e88004c796914" },
+        { "name": "Movistar Hits", "url": "acestream://2b8e5c7438d56541df3467cc5986cf1e66014101" },
         { "name": "Movistar Drama", "url": "acestream://edee311dc307e1638eeac880b11bb6f4759b0d83" }
         
       ]
