@@ -62,7 +62,8 @@
       "color": "#0288D1",
       "streams": [
         { "name": "Vamos 1080", "url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b" },
-        { "name": "Vamos 720", "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785" }
+        { "name": "Vamos 720", "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785" },
+        { "name": "NBA TV", "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95" }
       ]
     },
     {
@@ -70,16 +71,15 @@
       "icon": "sports",
       "color": "#8B0000",
       "streams": [
-         { "name": "MovistarPlus 1080", "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78" },
-         { "name": "M+ DEPORTES FHD", "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a" },
-         { "name": "M+ DEPORTES 2 FHD", "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c" },
-         { "name": "M+ DEPORTES 3 FHD", "url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee" },
-         { "name": "M+ DEPORTES 4 FHD", "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4" },
-         { "name": "M+ DEPORTES 5 FHD", "url": "acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4" },
-        { "name": "TDP FHD", "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230" },
-        { "name": "Sky Sports", "url": "acestream://398ee868ca834f48c8b5e503e9e4cd4c11dd5aaa" },
-        { "name": "Eurosport 1080", "url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e" },
-        { "name": "Eurosport 720", "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a" }
+         { "name": "MovistarPlus 1080", "url": "acestream://199190e3f28c1de0be34bccf0d3568dc65209b99" },
+         { "name": "M+ DEPORTES FHD", "url": "acestream://5d3f582738467aaf213e408601aca5cc13fa9359" },
+         { "name": "M+ DEPORTES 2 FHD", "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0" },
+         { "name": "M+ DEPORTES 3 FHD", "url": "acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903" },
+         { "name": "M+ DEPORTES 4 FHD", "url": "acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96" },
+         { "name": "M+ DEPORTES 5 FHD", "url": "acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa" },
+         { "name": "UFC", "url": "acestream://108aebe20efc826e56f3a1cb01117a124a6b89ad" },
+         { "name": "Eurosport 1080", "url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e" },
+         { "name": "Eurosport 720", "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a" }
       ]
     },
     {
@@ -87,14 +87,17 @@
       "icon": "tv",
       "color": "#800080",
       "streams": [
-        { "name": "Movistar Estrenos", "url": "acestream://6341392460596e63edf38b013bd137c015e44007" },
-        { "name": "Movistar Documentales", "url": "acestream://6cda7d2622bcafd6aef486016238936855927d7d" },
-        { "name": "Movistar Originales", "url": "acestream://1f092144252939810fd302cbd00d46de760b5dd7" },
-        { "name": "Movistar Cine Español", "url": "acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668" },
-        { "name": "Movistar Acción", "url": "acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53" },
-        { "name": "Movistar Comedia", "url": "acestream://90a3ad526f67f987f662eaf7d52e88004c796914" },
+        { "name": "Movistar Estrenos", "url": "acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131" },
+        { "name": "Movistar Terror", "url": "acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7" },
+        { "name": "Movistar Documentales", "url": "acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9" },
+        { "name": "Movistar Clásicos", "url": "acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae" },
+        { "name": "Movistar Cine Español", "url": "acestream://e4bce95dd4faeb9cb09ade36a0636bc4b22b691c" },
+        { "name": "Movistar Acción", "url": "acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96" },
+        { "name": "Movistar Comedia", "url": "acestream://50553edb5e8c54d15e0d43161369b3b4cef95065" },
         { "name": "Movistar Hits", "url": "acestream://2b8e5c7438d56541df3467cc5986cf1e66014101" },
-        { "name": "Movistar Drama", "url": "acestream://edee311dc307e1638eeac880b11bb6f4759b0d83" }
+        { "name": "Movistar Drama", "url": "acestream://a6de6a4977d7801bbddc9c7739d822f4beb358ae" },
+        { "name": "Telecinco", "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5" },
+        { "name": "Cuatro", "url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333" }
         
       ]
     }
