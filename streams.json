@@ -34,7 +34,8 @@
       "streams": [
         { "name": "DAZN 1", "url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276" },
         { "name": "DAZN 2", "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516" },
-        { "name": "DAZN 3", "url": "acestream://ae68a0835039fab28fd2314108fab33b8ab" }
+        { "name": "DAZN 3", "url": "acestream://ae68a0835039fab28fd2314108fab33b8ab" },
+        { "name": "DAZN 4", "url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8" }
       ]
     },
     {
