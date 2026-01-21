@@ -24,7 +24,8 @@
         { "name": "DAZN LaLiga 1080 MultiAudio 2", "url": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618" },
         { "name": "DAZN LaLiga 720", "url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f" },
         { "name": "DAZN LaLiga 2 1080 MultiAudio", "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8" },
-        { "name": "DAZN LaLiga 2 720 MultiAudio", "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36" }
+        { "name": "DAZN LaLiga 2 720 MultiAudio", "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36" },
+        { "name": "1 RFEF", "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9" }
       ]
     },
     {
@@ -71,6 +72,8 @@
       "streams": [
         { "name": "Vamos 1080", "url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b" },
         { "name": "Vamos 720", "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785" },
+        { "name": "ACB DAZN", "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75" },
+        { "name": "ACB DAZN 2", "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd" },
         { "name": "NBA TV", "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95" }
       ]
     },
@@ -102,7 +105,7 @@
         { "name": "Movistar Cine Español", "url": "acestream://e4bce95dd4faeb9cb09ade36a0636bc4b22b691c" },
         { "name": "Movistar Acción", "url": "acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96" },
         { "name": "Movistar Comedia", "url": "acestream://50553edb5e8c54d15e0d43161369b3b4cef95065" },
-        { "name": "Movistar Hits", "url": "acestream://2b8e5c7438d56541df3467cc5986cf1e66014101" },
+        { "name": "Movistar Hits", "url": "acestream://50553edb5e8c54d15e0d43161369b3b4cef95065" },
         { "name": "Movistar Drama", "url": "acestream://a6de6a4977d7801bbddc9c7739d822f4beb358ae" },
         { "name": "Telecinco", "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5" },
         { "name": "Cuatro", "url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333" }
