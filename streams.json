@@ -1,115 +1,124 @@
 {
   "categories": [
     {
-      "name": "Fútbol - LaLiga",
+      "name": "⚽ Fútbol - LaLiga",
       "icon": "sports_soccer",
       "color": "#006400",
       "streams": [
-        { "name": "La Liga BAR 1080", "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f" },
-        { "name": "M. LaLiga 1080P", "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947" },
-         { "name": "M. LaLiga 720", "url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f" },
-        { "name": "M. LaLiga 1080P 2", "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e" },
-        { "name": "M. LaLiga 1080P 3", "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74" },
-        { "name": "M. LaLiga 2 1080", "url": "acestream://51b363b1c4d42724e05240ad068ad219df8042ec" },
-        { "name": "M. LaLiga 2 720", "url": "acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8" },
-        { "name": "M. LaLiga 3 1080", "url": "acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87" },
-        { "name": "M. LaLiga 3 720", "url": "acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39" },
-        { "name": "M. LaLiga 4 1080", "url": "acestream://2a6b1fd8a24b23747db1ea534a51457708523602" },
-        { "name": "M. LaLiga 4 720", "url": "acestream://1bcee22d5476f2eae9dc2cb24e3685152cf285cb" },
-        { "name": "M. LaLiga Hypermotion", "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0" },
-        { "name": "M. LaLiga Hypermotion 720", "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd" },
-        { "name": "M. LaLiga Hypermotion 2", "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8" },
-        { "name": "M. LaLiga Hypermotion 3", "url": "acestream://778d2f60bb7207addedcca0b9aed98f41529724e" },
-        { "name": "DAZN LaLiga 1080 MultiAudio", "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05" },
-        { "name": "DAZN LaLiga 1080 MultiAudio 2", "url": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618" },
-        { "name": "DAZN LaLiga 720", "url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f" },
-        { "name": "DAZN LaLiga 2 1080 MultiAudio", "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8" },
-        { "name": "DAZN LaLiga 2 720 MultiAudio", "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36" },
-        { "name": "1 RFEF", "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9" }
+        { "name": "M+ LaLiga FHD", "url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6" },
+        { "name": "M+ LaLiga FHD v2", "url": "acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y" },
+        { "name": "M+ LaLiga FHD v3", "url": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231" },
+        { "name": "M+ LaLiga FHD v4", "url": "acestream://8c30b600cc48899991b452805df48b68d998e61c" },
+        { "name": "M+ LaLiga", "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38" },
+        { "name": "DAZN LaLiga 1 FHD", "url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae" },
+        { "name": "DAZN LaLiga 1", "url": "acestream://19f28f60c908f987b1a03da078e63320d7bf29e8" },
+        { "name": "DAZN LaLiga 1 FHD v2", "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1" },
+        { "name": "DAZN LaLiga 1 v2", "url": "acestream://4955867fad3bc92e5b4c36045699fc277800fb18" },
+        { "name": "DAZN LaLiga 1 v3", "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a" },
+        { "name": "M+ LaLiga 2 FHD", "url": "acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176" },
+        { "name": "M+ LaLiga 2 FHD v2", "url": "acestream://911ad127726234b97658498a8b790fdd7516541d" },
+        { "name": "M+ LaLiga 2", "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe" },
+        { "name": "DAZN LaLiga 2 FHD", "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3" },
+        { "name": "DAZN LaLiga 2 FHD v2", "url": "acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3" },
+        { "name": "M+ LaLiga 3 FHD", "url": "acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d" },
+        { "name": "M+ LaLiga 3", "url": "acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87" },
+        { "name": "M+ LaLiga 4", "url": "acestream://22178d72e0f255dedd7e56f9474fea879289a6f1" }
       ]
     },
     {
-      "name": "DAZN",
-      "icon": "tv",
-      "color": "#0033CC",
-      "streams": [
-        { "name": "DAZN 1", "url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276" },
-        { "name": "DAZN 2", "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516" },
-        { "name": "DAZN 3", "url": "acestream://ae68a0835039fab28fd2314108fab33b8ab" },
-        { "name": "DAZN 4", "url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8" }
-      ]
-    },
-    {
-      "name": "Fútbol - Champions",
+      "name": "🏆 Fútbol - Champions",
       "icon": "emoji_events",
       "color": "#DAA520",
       "streams": [
-        { "name": "Campeones 1080", "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9" },
-        { "name": "Campeones 1080 2", "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f" },
-        { "name": "Campeones 1080 3", "url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e" },
-        { "name": "Campeones 720", "url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32" },
-        { "name": "Campeones 2 1080", "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5" },
-        { "name": "Campeones 2 720", "url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e" },
-        { "name": "Campeones 3 1080", "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7" },
-        { "name": "Campeones 3 720", "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9" }
+        { "name": "Champions 4K", "url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29" },
+        { "name": "Champions FHD", "url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a" },
+        { "name": "Champions FHD v2", "url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0" },
+        { "name": "Champions FHD v3", "url": "acestream://afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f" },
+        { "name": "Champions FHD v4", "url": "acestream://0f7842f8b6c26571e5a974407b61623e56e6a052" },
+        { "name": "Champions", "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370" },
+        { "name": "Champions 2 FHD", "url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb" },
+        { "name": "Champions 2 FHD v2", "url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f" },
+        { "name": "Champions 2 FHD v3", "url": "acestream://4b18a3b32df5960ed950fa907f8d509b1ad2a188" },
+        { "name": "Champions 2 FHD v4", "url": "acestream://e7d8cae7f693fe46e89bbf74820caac9ffb32a30" },
+        { "name": "Champions 2", "url": "acestream://bb26037a253866d341778181eff5c8637240d615" },
+        { "name": "Champions 3 FHD", "url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d" },
+        { "name": "Champions 3 FHD v2", "url": "acestream://2b5129adc57d43790634d796fe3468b9fd061259" },
+        { "name": "Champions 3", "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9" },
+        { "name": "Champions 4 FHD", "url": "acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29" },
+        { "name": "Champions 14 SD", "url": "acestream://773ef9e2d2feb4f80ef558b253c72fda8d8e53cf" },
+        { "name": "Champions 15 SD", "url": "acestream://47ce8fe15adfcf4e1749b0c0dee1fc79a3d5ca6d" }
       ]
     },
     {
-      "name": "Fórmula 1",
+      "name": "🏎️ Fórmula 1",
       "icon": "sports_motorsports",
       "color": "#FF0000",
       "streams": [
-        { "name": "DAZN F1 1080", "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1" },
-        { "name": "DAZN F1 1080", "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69" },
-        { "name": "DAZN F1 1080", "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55" },
-        { "name": "DAZN F1 720", "url": "acestream://ed6188dcbb491efeb2092c1a6199226c27f61727" }
+        { "name": "DAZN F1 FHD", "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29" },
+        { "name": "DAZN F1 FHD v2", "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553" },
+        { "name": "DAZN F1 FHD v3", "url": "acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd" },
+        { "name": "DAZN F1 FHD v4", "url": "acestream://38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7" },
+        { "name": "DAZN F1 HD", "url": "acestream://d65257bb934b73647374224fd62d836815804be2" },
+        { "name": "DAZN F1 SD", "url": "acestream://4bc6f4cb6697c1defc981c0afe1a4c3a62284aee" },
+        { "name": "DAZN F1", "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076" }
       ]
     },
     {
-      "name": "Baloncesto",
+      "name": "🏀 Baloncesto",
       "icon": "sports_basketball",
       "color": "#0288D1",
       "streams": [
-        { "name": "Vamos 1080", "url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b" },
-        { "name": "Vamos 720", "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785" },
-        { "name": "ACB DAZN", "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75" },
-        { "name": "ACB DAZN 2", "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd" },
-        { "name": "NBA TV", "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95" }
+        { "name": "DAZN Baloncesto FHD", "url": "acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f" },
+        { "name": "DAZN Baloncesto 1 FHD", "url": "acestream://217e5f172d4c704c5eec739fed672a53521e8f98" },
+        { "name": "DAZN Baloncesto 2 FHD", "url": "acestream://965b249321adbf3a1459f94c17f624022889fb8d" },
+        { "name": "M+ Vamos 1080", "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae" },
+        { "name": "ACB DAZN", "url": "acestream://7af3d01607359fd1777de3d34d8d505ee5591b82" }
       ]
     },
     {
-      "name": "Deportes",
+      "name": "🎾 Otros Deportes",
       "icon": "sports",
       "color": "#8B0000",
       "streams": [
-         { "name": "MovistarPlus 1080", "url": "acestream://199190e3f28c1de0be34bccf0d3568dc65209b99" },
-         { "name": "M+ DEPORTES FHD", "url": "acestream://5d3f582738467aaf213e408601aca5cc13fa9359" },
-         { "name": "M+ DEPORTES 2 FHD", "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0" },
-         { "name": "M+ DEPORTES 3 FHD", "url": "acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903" },
-         { "name": "M+ DEPORTES 4 FHD", "url": "acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96" },
-         { "name": "M+ DEPORTES 5 FHD", "url": "acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa" },
-         { "name": "UFC", "url": "acestream://108aebe20efc826e56f3a1cb01117a124a6b89ad" },
-         { "name": "Eurosport 1080", "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d" },
-         { "name": "Eurosport 720", "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a" }
+        { "name": "M+ Deportes FHD", "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a" },
+        { "name": "M+ Deportes FHD v2", "url": "acestream://5d3f582738467aaf213e408601aca5cc13fa9359" },
+        { "name": "M+ Deportes 2 FHD", "url": "acestream://73d38feaa770d788848ec098470e32670fe55a61" },
+        { "name": "M+ Deportes 3 FHD", "url": "acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f" },
+        { "name": "M+ Golf FHD", "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031" },
+        { "name": "Eurosport 1 FHD", "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909" },
+        { "name": "Eurosport 2 FHD", "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc" },
+        { "name": "UFC", "url": "acestream://96537527b2d5e858b2e6c863a00dec304254091d" },
+        { "name": "Gol Play FHD", "url": "acestream://9fb99c40a2c45d5c5342b30626eb56140f980612" },
+        { "name": "TNT Sports FHD", "url": "acestream://363f1d119b1971237318c0d953ab6eea5eb7c592" }
       ]
     },
     {
-      "name": "Otros",
-      "icon": "tv",
+      "name": "🎬 Movistar Cine y TV",
+      "icon": "movie",
       "color": "#800080",
       "streams": [
-        { "name": "Movistar Estrenos", "url": "acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131" },
-        { "name": "Movistar Terror", "url": "acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7" },
-        { "name": "Movistar Documentales", "url": "acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9" },
-        { "name": "Movistar Clásicos", "url": "acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae" },
-        { "name": "Movistar Cine Español", "url": "acestream://e4bce95dd4faeb9cb09ade36a0636bc4b22b691c" },
-        { "name": "Movistar Acción", "url": "acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96" },
-        { "name": "Movistar Comedia", "url": "acestream://50553edb5e8c54d15e0d43161369b3b4cef95065" },
-        { "name": "Movistar Hits", "url": "acestream://50553edb5e8c54d15e0d43161369b3b4cef95065" },
-        { "name": "Movistar Drama", "url": "acestream://a6de6a4977d7801bbddc9c7739d822f4beb358ae" },
-        { "name": "Telecinco", "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5" },
-        { "name": "Cuatro", "url": "acestream://8670df538a11c6ec97b3f634981ddc4409ca0333" }
-        
+        { "name": "M+ Plus FHD", "url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b" },
+        { "name": "M+ Estrenos FHD", "url": "acestream://192f2ac5b372dfddef694e48edd2d56e308b51e7" },
+        { "name": "M+ Acción FHD", "url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce" },
+        { "name": "M+ Comedia FHD", "url": "acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6" },
+        { "name": "M+ Drama FHD", "url": "acestream://a6de6a4977d7801bbddc9c7739d822f4beb358ae" },
+        { "name": "M+ Clásicos FHD", "url": "acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae" },
+        { "name": "M+ Documentales FHD", "url": "acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9" },
+        { "name": "Discovery Channel HD", "url": "acestream://670519ffe8db1e20d0c753d4f756c009e71173d8" },
+        { "name": "Canal Cocina FHD", "url": "acestream://96f092e1fa99062f6da14cae230b877ad3ed849b" }
+      ]
+    },
+    {
+      "name": "📺 TDT",
+      "icon": "tv",
+      "color": "#424242",
+      "streams": [
+        { "name": "La 1 4K", "url": "acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0" },
+        { "name": "La 1 FHD", "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c" },
+        { "name": "La 2 FHD", "url": "acestream://9934906503661142f97a044ae1509a294057c2ed" },
+        { "name": "Antena 3 FHD", "url": "acestream://44828a7580cd99fcb36245c327889c47f34b457f" },
+        { "name": "Telecinco FHD", "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf" },
+        { "name": "Cuatro FHD", "url": "acestream://8d66979e705a8b532b9243bbc0862c0f1c734ef0" }
       ]
     }
   ]
