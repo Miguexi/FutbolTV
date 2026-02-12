@@ -1,0 +1,22 @@
+{
+  "globalRules": {
+    "plusSubstitution": "plus",
+    "removeParenthesesRegex": "\\(.*?\\)"
+  },
+  "channelRules": [
+    {
+      "alias": "movistarplus",
+      "excludeTerms": ["golf", "estrenos", "vacaciones"],
+      "allowMainOnly": true
+    },
+    {
+      "alias": "dazn",
+      "strictNoNumbersIfGeneric": true,
+      "allowMainOnly": true
+    },
+    {
+      "alias": "la1",
+      "ignoreNumberCheck": true
+    }
+  ]
+}
