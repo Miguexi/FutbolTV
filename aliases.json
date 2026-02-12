@@ -1,34 +1,58 @@
 [
   {
     "name": "la 1",
-    "aliases": ["La 1", "TVE 1", "LA1"]
-  },
-  {
-    "name": "m+ laliga",
-    "aliases": ["M+ LaLiga", "LALIGA TV", "M LaLiga", "DAZN LaLiga"]
+    "aliases": ["La 1", "TVE 1", "RTVE Play"]
   },
   {
     "name": "movistar plus",
-    "aliases": ["M+ Plus", "Movistar Plus", "M+ Estrenos", "M Plus", "#0"]
+    "aliases": ["Movistar Plus+", "Movistar Plus", "M+ Plus", "M Plus", "M7", "#0"]
+  },
+  {
+    "name": "m+ laliga",
+    "aliases": ["M+ LaLiga", "LALIGA TV", "M LaLiga", "LaLiga TV Bar"]
+  },
+  {
+    "name": "dazn laliga",
+    "aliases": ["DAZN LaLiga", "DAZN 1"]
   },
   {
     "name": "m+ liga de campeones",
-    "aliases": ["M+ Liga de Campeones", "Champions", "UCL", "Liga de Campeones"]
+    "aliases": ["M+ Liga de Campeones", "Champions", "UCL"]
   },
   {
     "name": "m+ deportes",
     "aliases": ["M+ Deportes", "Deportes", "MOVISTAR DEPORTES"]
   },
   {
+    "name": "m+ vamos",
+    "aliases": ["M+ Vamos", "Vamos", "M+ #Vamos Bar"]
+  },
+  {
+    "name": "m+ ellas vamos",
+    "aliases": ["M+ Ellas Vamos", "Ellas Vamos"]
+  },
+  {
+    "name": "dazn baloncesto",
+    "aliases": ["DAZN Baloncesto", "ACB"]
+  },
+  {
     "name": "f1",
-    "aliases": ["DAZN F1", "F1", "FORMULA 1"]
+    "aliases": ["DAZN F1", "F1", "Fórmula 1"]
   },
   {
-    "name": "1 rfef",
-    "aliases": ["1 RFEF", "Primera Federación", "Primera Federacion"]
+    "name": "m+ golf",
+    "aliases": ["Movistar Golf", "M+ Golf", "Golf"]
   },
   {
-    "name": "teledeporte",
-    "aliases": ["Teledeporte", "TDP"]
+    "name": "nba league pass",
+    "aliases": ["NBA League Pass", "NBA TV", "NBA"]
+  },
+  {
+    "name": "dazn",
+    "aliases": ["DAZN", "DAZN App Gratis", "DAZN 1", "DAZN 2"]
+  },
+  {
+    "name": "eurosport",
+    "aliases": ["Eurosport 1", "Eurosport 2"]
   }
 ]
