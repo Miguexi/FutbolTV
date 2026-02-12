@@ -1,58 +1,34 @@
 [
   {
-    "name": "dazn",
-    "aliases": [
-      "DAZN",
-      "DAZN 1",
-      "DAZN 2",
-      "DAZN 3",
-      "DAZN 4",
-      "DAZN F1",
-      "DAZN BALONCESTO",
-      "ELEVEN DAZN"
-    ]
+    "name": "la 1",
+    "aliases": ["LA 1", "LA1", "TVE 1", "RTVE PLAY"]
   },
   {
-    "name": "m+ vamos",
-    "aliases": [
-      "MOVISTAR VAMOS",
-      "M+ VAMOS",
-      "VAMOS"
-    ]
-  },
-  {
-    "name": "m+ deportes",
-    "aliases": [
-      "MOVISTAR DEPORTES",
-      "M+ DEPORTES"
-    ]
+    "name": "m+ laliga",
+    "aliases": ["M+ LALIGA", "LALIGA TV", "M LALIGA", "LALIGA TV BAR"]
   },
   {
     "name": "movistar plus",
-    "aliases": [
-      "MOVISTAR PLUS",
-      "MOVISTAR PLUS FHD",
-      "MOVISTAR PLUS+"
-    ]
+    "aliases": ["MOVISTAR PLUS+", "MOVISTAR PLUS", "M+ PLUS", "M PLUS"]
   },
   {
-    "name": "la 1",
-    "aliases": [
-      "LA 1",
-      "LA1",
-      "TVE 1"
-    ]
+    "name": "dazn laliga",
+    "aliases": ["DAZN LALIGA", "DAZN 1"]
   },
   {
-    "name": "teledeporte",
-    "aliases": [
-      "TELEDEPORTE"
-    ]
+    "name": "m+ vamos",
+    "aliases": ["MOVISTAR VAMOS", "M+ VAMOS", "VAMOS"]
+  },
+  {
+    "name": "m+ deportes",
+    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
+  },
+  {
+    "name": "dazn",
+    "aliases": ["DAZN", "DAZN 1", "DAZN 2", "DAZN F1"]
   },
   {
     "name": "eurosport",
-    "aliases": [
-      "EUROSPORT"
-    ]
+    "aliases": ["EUROSPORT 1", "EUROSPORT 2"]
   }
 ]
