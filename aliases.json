@@ -1,232 +1,130 @@
 [
   {
     "name": "m+ laliga",
-    "aliases": [
-      "M+ LaLiga FHD",
-      "M+ LaLiga FHD v2",
-      "M+ LaLiga FHD v3",
-      "M+ LaLiga FHD v4",
-      "M+ LaLiga"
-    ]
+    "aliases": ["M+ LaLiga FHD", "M+ LaLiga FHD v2", "M+ LaLiga FHD v3", "M+ LaLiga FHD v4", "M+ LaLiga"]
   },
   {
     "name": "dazn laliga",
-    "aliases": [
-      "DAZN LaLiga 1 FHD",
-      "DAZN LaLiga 1 FHD v2",
-      "DAZN LaLiga 1",
-      "DAZN LaLiga 1 v2",
-      "DAZN LaLiga 1 v3"
-    ]
+    "aliases": ["DAZN LaLiga 1 FHD", "DAZN LaLiga 1 FHD v2", "DAZN LaLiga 1", "DAZN LaLiga 1 v2", "DAZN LaLiga 1 v3"]
   },
   {
     "name": "m+ laliga 2",
-    "aliases": [
-      "M+ LaLiga 2 FHD",
-      "M+ LaLiga 2 FHD v2",
-      "M+ LaLiga 2"
-    ]
+    "aliases": ["M+ LaLiga 2 FHD", "M+ LaLiga 2 FHD v2", "M+ LaLiga 2"]
   },
   {
     "name": "m+ laliga 3",
-    "aliases": [
-      "M+ LaLiga 3 FHD",
-      "M+ LaLiga 3"
-    ]
+    "aliases": ["M+ LaLiga 3 FHD", "M+ LaLiga 3"]
   },
   {
     "name": "m+ laliga 4",
-    "aliases": [
-      "M+ LaLiga 4"
-    ]
+    "aliases": ["M+ LaLiga 4"]
   },
   {
     "name": "laliga tv hypermotion",
-    "aliases": [
-      "Hypermotion 1",
-      "Hypermotion 2",
-      "Hypermotion 3"
-    ]
+    "aliases": ["Hypermotion 1", "Hypermotion 2", "Hypermotion 3"]
   },
   {
     "name": "laliga tv m2",
-    "aliases": [
-      "Hypermotion 1",
-      "Hypermotion 2"
-    ]
+    "aliases": ["Hypermotion 1", "Hypermotion 2"]
   },
   {
     "name": "laliga tv m3",
-    "aliases": [
-      "Hypermotion 3",
-      "M+ LaLiga 3"
-    ]
+    "aliases": ["Hypermotion 3", "M+ LaLiga 3"]
   },
   {
     "name": "laliga tv m4",
-    "aliases": [
-      "M+ LaLiga 4"
-    ]
+    "aliases": ["M+ LaLiga 4"]
   },
   {
     "name": "m+ liga de campeones",
-    "aliases": [
-      "Champions 4K",
-      "Champions FHD",
-      "Champions FHD v2",
-      "Champions FHD v3",
-      "Champions FHD v4",
-      "Champions"
-    ]
+    "aliases": ["Champions 4K", "Champions FHD", "Champions FHD v2", "Champions FHD v3", "Champions FHD v4", "Champions"]
   },
   {
     "name": "dazn baloncesto",
-    "aliases": [
-      "DAZN Baloncesto FHD"
-    ]
+    "aliases": ["DAZN Baloncesto FHD"]
   },
   {
     "name": "dazn baloncesto 1",
-    "aliases": [
-      "DAZN Baloncesto 1 FHD"
-    ]
+    "aliases": ["DAZN Baloncesto 1 FHD"]
   },
   {
     "name": "dazn baloncesto 2",
-    "aliases": [
-      "DAZN Baloncesto 2 FHD"
-    ]
+    "aliases": ["DAZN Baloncesto 2 FHD"]
   },
   {
     "name": "dazn baloncesto 3",
-    "aliases": [
-      "DAZN Baloncesto FHD"
-    ]
+    "aliases": ["DAZN Baloncesto FHD"]
   },
   {
     "name": "nba league pass",
-    "aliases": [
-      "NBA TV"
-    ]
+    "aliases": ["NBA TV"]
   },
   {
     "name": "f1",
-    "aliases": [
-      "DAZN F1 FHD",
-      "DAZN F1 FHD v2",
-      "DAZN F1 FHD v3",
-      "DAZN F1 FHD v4",
-      "DAZN F1 HD",
-      "DAZN F1 SD",
-      "DAZN F1"
-    ]
+    "aliases": ["DAZN F1 FHD", "DAZN F1 FHD v2", "DAZN F1 FHD v3", "DAZN F1 FHD v4", "DAZN F1 HD", "DAZN F1 SD", "DAZN F1"]
   },
   {
     "name": "eurosport 1",
-    "aliases": [
-      "Eurosport 1 FHD"
-    ]
+    "aliases": ["Eurosport 1 FHD"]
   },
   {
     "name": "eurosport 2",
-    "aliases": [
-      "Eurosport 2 FHD"
-    ]
+    "aliases": ["Eurosport 2 FHD"]
   },
   {
     "name": "m+ deportes",
-    "aliases": [
-      "M+ Deportes FHD",
-      "M+ Deportes FHD v2"
-    ]
+    "aliases": ["M+ Deportes FHD", "M+ Deportes FHD v2"]
   },
-    {
+  {
     "name": "movistar plus",
-    "aliases": [
-      "M+ Plus FHD"
-    ]
+    "aliases": ["M+ Plus FHD"]
   },
   {
     "name": "m+ deportes 2",
-    "aliases": [
-      "M+ Deportes 2 FHD"
-    ]
+    "aliases": ["M+ Deportes 2 FHD"]
   },
   {
     "name": "m+ golf",
-    "aliases": [
-      "M+ Golf FHD"
-    ]
+    "aliases": ["M+ Golf FHD"]
   },
   {
     "name": "ufc",
-    "aliases": [
-      "UFC"
-    ]
+    "aliases": ["UFC"]
   },
   {
     "name": "dazn 1",
-    "aliases": [
-      "DAZN 1 FHD",
-      "DAZN 1 FHD v2",
-      "DAZN 1 HD"
-    ]
+    "aliases": ["DAZN 1 FHD", "DAZN 1 FHD v2", "DAZN 1 HD"]
   },
   {
     "name": "dazn 2",
-    "aliases": [
-      "DAZN 2 FHD"
-    ]
+    "aliases": ["DAZN 2 FHD"]
   },
   {
     "name": "dazn 3",
-    "aliases": [
-      "DAZN 3 FHD"
-    ]
+    "aliases": ["DAZN 3 FHD"]
   },
   {
     "name": "dazn 4",
-    "aliases": [
-      "DAZN 4 FHD"
-    ]
+    "aliases": ["DAZN 4 FHD"]
   },
   {
     "name": "m+ vamos",
-    "aliases": [
-      "M+ Vamos 1080"
-    ]
+    "aliases": ["M+ Vamos 1080"]
   },
   {
     "name": "m+ elllas vamos",
-    "aliases": [
-      "M+ Golf FHD",
-      "M+ Deportes FHD"
-    ]
-  },
-  {
-    "name": "movistar plus",
-    "aliases": [
-      "M+ Plus FHD"
-    ]
+    "aliases": ["M+ Golf FHD", "M+ Deportes FHD"]
   },
   {
     "name": "la 1",
-    "aliases": [
-      "La 1 4K",
-      "La 1 FHD"
-    ]
+    "aliases": ["La 1 4K", "La 1 FHD"]
   },
   {
     "name": "teledeporte",
-    "aliases": [
-      "La 1 FHD"
-    ]
+    "aliases": ["La 1 FHD"]
   },
   {
     "name": "1 rfef",
-    "aliases": [
-      "1 RFEF FHD",
-      "1 RFEF FHD v2"
-    ]
+    "aliases": ["1 RFEF FHD", "1 RFEF FHD v2"]
   }
 ]
