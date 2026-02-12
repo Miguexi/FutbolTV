@@ -5,11 +5,11 @@
   },
   {
     "name": "movistar plus",
-    "aliases": ["Movistar Plus+", "Movistar Plus", "M+ Plus", "M Plus", "M7", "#0"]
+    "aliases": ["Movistar Plus+", "Movistar Plus", "M+ Plus", "M Plus", "#0"]
   },
   {
     "name": "m+ laliga",
-    "aliases": ["M+ LaLiga", "LALIGA TV", "M LaLiga", "LaLiga TV Bar"]
+    "aliases": ["M+ LaLiga", "LALIGA TV", "M LaLiga", "LaLigaTV Bar"]
   },
   {
     "name": "dazn laliga",
@@ -17,7 +17,7 @@
   },
   {
     "name": "m+ liga de campeones",
-    "aliases": ["M+ Liga de Campeones", "Champions", "UCL"]
+    "aliases": ["M+ Liga de Campeones", "Champions", "UCL", "Liga de Campeones"]
   },
   {
     "name": "m+ deportes",
@@ -25,7 +25,7 @@
   },
   {
     "name": "m+ vamos",
-    "aliases": ["M+ Vamos", "Vamos", "M+ #Vamos Bar"]
+    "aliases": ["M+ Vamos", "Vamos", "#Vamos"]
   },
   {
     "name": "m+ ellas vamos",
@@ -40,16 +40,24 @@
     "aliases": ["DAZN F1", "F1", "Fórmula 1"]
   },
   {
+    "name": "rally tv",
+    "aliases": ["Rally TV", "WRC", "Rally"]
+  },
+  {
     "name": "m+ golf",
     "aliases": ["Movistar Golf", "M+ Golf", "Golf"]
   },
   {
     "name": "nba league pass",
-    "aliases": ["NBA League Pass", "NBA TV", "NBA"]
+    "aliases": ["NBA League Pass", "NBA TV"]
   },
   {
-    "name": "dazn",
-    "aliases": ["DAZN", "DAZN App Gratis", "DAZN 1", "DAZN 2"]
+    "name": "1 rfef",
+    "aliases": ["1 RFEF", "Primera Federación", "Primera Federacion"]
+  },
+  {
+    "name": "gol play",
+    "aliases": ["Gol Play", "GOL PLAY"]
   },
   {
     "name": "eurosport",
