@@ -8,6 +8,14 @@
     "aliases": ["M+ LALIGA", "LALIGA TV", "M LALIGA", "LALIGA TV BAR"]
   },
   {
+    "name": "m+ liga de campeones",
+    "aliases": ["Liga de campeones", "M+ Liga de Campeones", "M. Liga de Campeones", "LIGA DE CAMPEONES"]
+  },
+  {
+    "name": "laliga tv bar",
+    "aliases": ["LALIGA TV BAR", "LaLiga TV Bar", "LALIGA BAR"]
+  },
+  {
     "name": "movistar plus",
     "aliases": ["MOVISTAR PLUS+", "MOVISTAR PLUS", "M+ PLUS", "M PLUS"]
   },
