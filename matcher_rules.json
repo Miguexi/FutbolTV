@@ -5,17 +5,21 @@
   },
   "channelRules": [
     {
-      "alias": "movistarplus",
-      "excludeTerms": ["golf", "estrenos", "vacaciones"],
+      "alias": "movistar plus", 
+      "excludeTerms": ["golf", "estrenos", "vacaciones", "laliga", "campeones", "deportes", "liga"],
       "allowMainOnly": true
     },
     {
-      "alias": "ligadecampeones",
+      "alias": "liga de campeones",
       "strictNoNumbersIfGeneric": false,
       "ignoreNumberCheck": false
     },
     {
-      "alias": "mplusdeportes",
+      "alias": "m plus laliga",
+      "strictNoNumbersIfGeneric": true
+    },
+    {
+      "alias": "m plus deportes",
       "strictNoNumbersIfGeneric": true
     },
     {
@@ -24,7 +28,7 @@
       "allowMainOnly": true
     },
     {
-      "alias": "la1",
+      "alias": "la 1",
       "ignoreNumberCheck": true
     }
   ]
