@@ -10,8 +10,13 @@
       "allowMainOnly": true
     },
     {
-  "alias": "mplusdeportes",
-  "strictNoNumbersIfGeneric": true
+      "alias": "ligadecampeones",
+      "strictNoNumbersIfGeneric": false,
+      "ignoreNumberCheck": false
+    },
+    {
+      "alias": "mplusdeportes",
+      "strictNoNumbersIfGeneric": true
     },
     {
       "alias": "dazn",
