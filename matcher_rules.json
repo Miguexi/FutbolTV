@@ -10,6 +10,10 @@
       "allowMainOnly": true
     },
     {
+  "alias": "mplusdeportes",
+  "strictNoNumbersIfGeneric": true
+    },
+    {
       "alias": "dazn",
       "strictNoNumbersIfGeneric": true,
       "allowMainOnly": true
