@@ -24,6 +24,7 @@
     },
     {
       "alias": "dazn",
+      "excludeTerms":["motogp", "f1", "motor", "barcelona", "victoria"],
       "strictNoNumbersIfGeneric": true,
       "allowMainOnly": true
     },
