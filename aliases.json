@@ -12,10 +12,6 @@
     "aliases": ["Liga de campeones", "M+ Liga de Campeones", "M. Liga de Campeones", "LIGA DE CAMPEONES"]
   },
   {
-    "name": "laliga tv bar",
-    "aliases": ["LALIGA TV BAR", "LaLiga TV Bar", "LALIGA BAR"]
-  },
-  {
     "name": "movistar plus",
     "aliases": ["MOVISTAR PLUS+", "MOVISTAR PLUS", "M+ PLUS", "M PLUS"]
   },
@@ -24,16 +20,20 @@
     "aliases": ["DAZN LALIGA", "DAZN 1"]
   },
   {
+    "name": "dazn",
+    "aliases": ["DAZN"] 
+  },
+  {
+    "name": "dazn f1",
+    "aliases": ["DAZN F1", "DAZN FORMULA 1", "DAZN MOTOR"]
+  },
+  {
     "name": "m+ vamos",
     "aliases": ["MOVISTAR VAMOS", "M+ VAMOS", "VAMOS"]
   },
   {
     "name": "m+ deportes",
     "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
-  },
-  {
-    "name": "dazn",
-    "aliases": ["DAZN", "DAZN 1", "DAZN 2", "DAZN F1"]
   },
   {
     "name": "eurosport",
