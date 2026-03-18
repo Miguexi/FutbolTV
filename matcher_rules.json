@@ -6,7 +6,7 @@
   "channelRules": [
     {
       "alias": "movistar plus", 
-      "excludeTerms": ["golf", "estrenos", "vacaciones", "laliga", "campeones", "deportes", "liga", "vamos"],
+      "excludeTerms": ["golf", "estrenos", "vacaciones", "laliga", "campeones", "deportes", "liga", "vamos", "film"],
       "allowMainOnly": true
     },
     {
