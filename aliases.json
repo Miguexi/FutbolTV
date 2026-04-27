@@ -38,5 +38,9 @@
   {
     "name": "eurosport",
     "aliases": ["EUROSPORT 1", "EUROSPORT 2"]
+  },
+  {
+    "name": "hypermotion",
+    "aliases": ["LALIGA TV HYPERMOTION", "LALIGA HYPERMOTION", "LIGA SMARTBANK", "HYPERMOTION"]
   }
 ]
