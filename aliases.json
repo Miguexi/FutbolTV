@@ -5,7 +5,7 @@
   },
   {
     "name": "m+ laliga",
-    "aliases": ["M+ LALIGA", "LALIGA TV", "M LALIGA", "LALIGA TV BAR"]
+    "aliases": ["M+ LALIGA", "LALIGA TV", "M LALIGA", "LALIGA TV BAR", "LA LIGA TV"]
   },
   {
     "name": "liga de campeones",
@@ -17,7 +17,7 @@
   },
   {
     "name": "dazn laliga",
-    "aliases": ["DAZN LALIGA", "DAZN 1"]
+    "aliases": ["DAZN LALIGA", "DAZN LA LIGA", "DAZN LALIGA 1", "DAZN LALIGA 2", "DAZN LA LIGA 1", "DAZN LA LIGA 2", "DAZN 1", "DAZN 2"]
   },
   {
     "name": "dazn",
