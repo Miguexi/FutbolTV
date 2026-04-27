@@ -35,6 +35,10 @@
     {
       "alias": "la 1",
       "ignoreNumberCheck": true
+    },
+    {
+      "alias": "hypermotion",
+      "ignoreNumberCheck": true
     }
   ]
 }
