@@ -24,9 +24,25 @@
     "aliases": ["DAZN LALIGA", "DAZN LA LIGA", "DAZN LALIGA 1", "DAZN LALIGA 2", "DAZN LA LIGA 1", "DAZN LA LIGA 2", "DAZN 1", "DAZN 2"]
   },
   {
-    "name": "dazn",
-    "aliases": ["DAZN", "DAZN 1", "DAZN 2", "DAZN 3", "DAZN 4"] 
-  },
+  "name": "dazn",
+  "aliases": ["DAZN"]
+},
+{
+  "name": "dazn 1",
+  "aliases": ["DAZN 1", "DAZN 1 BAR"]
+},
+{
+  "name": "dazn 2",
+  "aliases": ["DAZN 2", "DAZN 2 BAR"]
+},
+{
+  "name": "dazn 3",
+  "aliases": ["DAZN 3"]
+},
+{
+  "name": "dazn 4",
+  "aliases": ["DAZN 4"]
+},
   {
     "name": "dazn f1",
     "aliases": ["DAZN F1", "DAZN FORMULA 1", "DAZN MOTOR"]
