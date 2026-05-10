@@ -43,6 +43,10 @@
     {
       "alias": "hypermotion",
       "ignoreNumberCheck": true
+    },
+    {
+      "alias": "primera federacion",
+      "ignoreNumberCheck": true
     }
   ]
 }
