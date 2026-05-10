@@ -34,12 +34,12 @@
       "alias": "m plus deportes 5",
       "ignoreNumberCheck": true
     },
-    {
-      "alias": "dazn",
-      "excludeTerms": ["motogp", "f1", "motor", "barcelona", "victoria", "laliga", "la liga"],
-      "strictNoNumbersIfGeneric": false,
-      "ignoreNumberCheck": true
-    },
+{
+  "alias": "dazn",
+  "excludeTerms": ["motogp", "f1", "motor", "barcelona", "victoria", "laliga", "la liga"],
+  "strictNoNumbersIfGeneric": false,
+  "ignoreNumberCheck": false
+},
     {
       "alias": "dazn laliga",
       "ignoreNumberCheck": true
