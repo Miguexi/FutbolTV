@@ -35,50 +35,30 @@
     "name": "m+ vamos",
     "aliases": ["MOVISTAR VAMOS", "M+ VAMOS", "VAMOS"]
   },
-{
-  "name": "m+ deportes",
-  "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "M. DEPORTES", "DEPORTES"]
-},
-{
-  "name": "m+ deportes 2",  
-  "aliases": ["MOVISTAR DEPORTES 2", "M+ DEPORTES 2"]
-},
-{
-  "name": "m+ deportes 3",
-  "aliases": ["MOVISTAR DEPORTES 3", "M+ DEPORTES 3"]
-},
-{
-  "name": "m+ deportes 4",
-  "aliases": ["MOVISTAR DEPORTES 4", "M+ DEPORTES 4"]
-},
-{
-  "name": "m+ deportes 5",
-  "aliases": ["MOVISTAR DEPORTES 5", "M+ DEPORTES 5"]
-},
   {
-  "name": "m+ deportes",
-  "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "M. DEPORTES", "DEPORTES", "M+ DEPORTES HD", "MOVISTAR DEPORTES HD"]
-},
-{
-  "name": "m+ deportes 2",  
-  "aliases": ["MOVISTAR DEPORTES 2", "M+ DEPORTES 2", "MOVISTAR DEPORTES 2 HD", "MOVISTAR DEPORTES 2 FHD"]
-},
-{
-  "name": "m+ deportes 3",
-  "aliases": ["MOVISTAR DEPORTES 3", "M+ DEPORTES 3", "MOVISTAR DEPORTES 3 HD", "MOVISTAR DEPORTES 3 FHD"]
-},
-{
-  "name": "m+ deportes 4",
-  "aliases": ["MOVISTAR DEPORTES 4", "M+ DEPORTES 4", "MOVISTAR DEPORTES 4 HD", "MOVISTAR DEPORTES 4 FHD"]
-},
-{
-  "name": "m+ deportes 5",
-  "aliases": ["MOVISTAR DEPORTES 5", "M+ DEPORTES 5", "MOVISTAR DEPORTES 5 HD", "MOVISTAR DEPORTES 5 FHD"]
-},
-{
-  "name": "primera federacion",
-  "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+", "TV FOOTBALLCLUB", "PRIMERA FEDERACION FHD"]
-},
+    "name": "m+ deportes",
+    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "M. DEPORTES", "DEPORTES", "M+ DEPORTES HD", "MOVISTAR DEPORTES HD"]
+  },
+  {
+    "name": "m+ deportes 2",  
+    "aliases": ["MOVISTAR DEPORTES 2", "M+ DEPORTES 2", "MOVISTAR DEPORTES 2 HD", "MOVISTAR DEPORTES 2 FHD", "MOVISTAR DEPORTES", "M+ DEPORTES"]
+  },
+  {
+    "name": "m+ deportes 3",
+    "aliases": ["MOVISTAR DEPORTES 3", "M+ DEPORTES 3", "MOVISTAR DEPORTES 3 HD", "MOVISTAR DEPORTES 3 FHD", "MOVISTAR DEPORTES", "M+ DEPORTES"]
+  },
+  {
+    "name": "m+ deportes 4",
+    "aliases": ["MOVISTAR DEPORTES 4", "M+ DEPORTES 4", "MOVISTAR DEPORTES 4 HD", "MOVISTAR DEPORTES 4 FHD", "MOVISTAR DEPORTES", "M+ DEPORTES"]
+  },
+  {
+    "name": "m+ deportes 5",
+    "aliases": ["MOVISTAR DEPORTES 5", "M+ DEPORTES 5", "MOVISTAR DEPORTES 5 HD", "MOVISTAR DEPORTES 5 FHD", "MOVISTAR DEPORTES", "M+ DEPORTES"]
+  },
+  {
+    "name": "primera federacion",
+    "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+", "TV FOOTBALLCLUB", "PRIMERA FEDERACION FHD"]
+  },
   {
     "name": "eurosport",
     "aliases": ["EUROSPORT 1", "EUROSPORT 2", "EUROSPORT"]
