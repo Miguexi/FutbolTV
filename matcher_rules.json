@@ -22,15 +22,24 @@
       "alias": "m plus laliga",
       "strictNoNumbersIfGeneric": true
     },
-    {"alias": "m plus vamos", "ignoreNumberCheck": true},
-{"alias": "m plus deportes 6", "ignoreNumberCheck": true},
-{"alias": "m plus deportes", "strictNoNumbersIfGeneric": false},
-{
-  "alias": "dazn",
-  "excludeTerms": ["motogp", "f1", "motor", "barcelona", "victoria", "laliga", "la liga"],
-  "strictNoNumbersIfGeneric": false,
-  "allowMainOnly": true
-},
+    {
+      "alias": "m plus deportes",
+      "strictNoNumbersIfGeneric": true
+    },
+    {
+      "alias": "m plus deportes 4",
+      "ignoreNumberCheck": true
+    },
+    {
+      "alias": "m plus deportes 5",
+      "ignoreNumberCheck": true
+    },
+    {
+      "alias": "dazn",
+      "excludeTerms": ["motogp", "f1", "motor", "barcelona", "victoria", "laliga", "la liga"],
+      "strictNoNumbersIfGeneric": false,
+      "ignoreNumberCheck": true
+    },
     {
       "alias": "dazn laliga",
       "ignoreNumberCheck": true
@@ -46,10 +55,6 @@
     {
       "alias": "primera federacion",
       "ignoreNumberCheck": true
-    },
-    {"alias": "m plus deportes 2", "ignoreNumberCheck": true},
-{"alias": "m plus deportes 3", "ignoreNumberCheck": true},
-{"alias": "m plus deportes 4", "ignoreNumberCheck": true},
-{"alias": "m plus deportes 5", "ignoreNumberCheck": true}
+    }
   ]
 }
