@@ -35,18 +35,30 @@
     "name": "m+ vamos",
     "aliases": ["MOVISTAR VAMOS", "M+ VAMOS", "VAMOS"]
   },
-  {
-    "name": "m+ deportes",
-    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
-  },
-  {
-    "name": "m+ deportes 4",
-    "aliases": ["M+ DEPORTES 4", "MOVISTAR DEPORTES 4"]
-  },
-  {
-    "name": "m+ deportes 5",
-    "aliases": ["M+ DEPORTES 5", "MOVISTAR DEPORTES 5"]
-  },
+{
+  "name": "m+ deportes",
+  "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "M. DEPORTES", "DEPORTES"]
+},
+{
+  "name": "m+ deportes 2",  
+  "aliases": ["MOVISTAR DEPORTES 2", "M+ DEPORTES 2"]
+},
+{
+  "name": "m+ deportes 3",
+  "aliases": ["MOVISTAR DEPORTES 3", "M+ DEPORTES 3"]
+},
+{
+  "name": "m+ deportes 4",
+  "aliases": ["MOVISTAR DEPORTES 4", "M+ DEPORTES 4"]
+},
+{
+  "name": "m+ deportes 5",
+  "aliases": ["MOVISTAR DEPORTES 5", "M+ DEPORTES 5"]
+},
+{
+  "name": "primera federacion",
+  "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+", "TV FOOTBALLCLUB", "PRIMERA FEDERACION FHD"]
+},
   {
     "name": "eurosport",
     "aliases": ["EUROSPORT 1", "EUROSPORT 2", "EUROSPORT"]
@@ -54,9 +66,5 @@
   {
     "name": "hypermotion",
     "aliases": ["LALIGA TV HYPERMOTION", "LALIGA HYPERMOTION", "LIGA SMARTBANK", "HYPERMOTION"]
-  },
-  {
-    "name": "primera federacion",
-    "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+", "TV FOOTBALLCLUB"]
   }
 ]
