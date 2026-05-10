@@ -10,6 +10,22 @@
       "allowMainOnly": true
     },
     {
+  "alias": "dazn 1",
+  "ignoreNumberCheck": true
+},
+{
+  "alias": "dazn 2",
+  "ignoreNumberCheck": true
+},
+{
+  "alias": "dazn 3",
+  "ignoreNumberCheck": true
+},
+{
+  "alias": "dazn 4",
+  "ignoreNumberCheck": true
+},
+    {
       "alias": "dazn motogp",
       "ignoreNumberCheck": true
     },
