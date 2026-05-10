@@ -1,7 +1,7 @@
 [
   {
     "name": "la 1",
-    "aliases": ["LA 1", "LA1", "TVE 1", "RTVE PLAY"]
+    "aliases": ["LA 1", "LA1", "TVE 1", "RTVE PLAY", "TVE1"]
   },
   {
     "name": "m+ laliga",
@@ -9,11 +9,11 @@
   },
   {
     "name": "liga de campeones",
-    "aliases": ["Liga de campeones", "M+ Liga de Campeones", "M. Liga de Campeones", "LIGA DE CAMPEONES"]
+    "aliases": ["Liga de campeones", "M+ Liga de Campeones", "M. Liga de Campeones", "LIGA DE CAMPEONES", "CHAMPIONS"]
   },
   {
     "name": "dazn motogp",
-    "aliases": ["DAZN MOTOGP", "DAZN MOTOR", "MOTOGP VIDEOPASS", "MOTOGP", "DAZN 1", "DAZN 2"]
+    "aliases": ["DAZN MOTOGP", "DAZN MOTOR", "MOTOGP VIDEOPASS", "MOTOGP", "MOTOR"]
   },
   {
     "name": "movistar plus",
@@ -21,7 +21,7 @@
   },
   {
     "name": "dazn laliga",
-    "aliases": ["DAZN LALIGA", "DAZN LA LIGA", "DAZN LALIGA 1", "DAZN LALIGA 2", "DAZN LA LIGA 1", "DAZN LA LIGA 2", "DAZN 1", "DAZN 2"]
+    "aliases": ["DAZN LALIGA", "DAZN LA LIGA", "DAZN LALIGA 1", "DAZN LALIGA 2", "DAZN LA LIGA 1", "DAZN LA LIGA 2"]
   },
   {
     "name": "dazn",
@@ -29,7 +29,7 @@
   },
   {
     "name": "dazn f1",
-    "aliases": ["DAZN F1", "DAZN FORMULA 1", "DAZN MOTOR"]
+    "aliases": ["DAZN F1", "DAZN FORMULA 1", "DAZN MOTOR", "F1", "MOTOR"]
   },
   {
     "name": "m+ vamos",
@@ -37,27 +37,27 @@
   },
   {
     "name": "m+ deportes",
-    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "M. DEPORTES", "DEPORTES", "M+ DEPORTES HD", "MOVISTAR DEPORTES HD"]
+    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "M. DEPORTES", "DEPORTES", "MOVISTAR DEPORTES HD"]
   },
   {
     "name": "m+ deportes 2",  
-    "aliases": ["MOVISTAR DEPORTES 2", "M+ DEPORTES 2", "MOVISTAR DEPORTES 2 HD", "MOVISTAR DEPORTES 2 FHD", "MOVISTAR DEPORTES", "M+ DEPORTES"]
+    "aliases": ["MOVISTAR DEPORTES 2", "M+ DEPORTES 2", "DEPORTES 2", "MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
   },
   {
     "name": "m+ deportes 3",
-    "aliases": ["MOVISTAR DEPORTES 3", "M+ DEPORTES 3", "MOVISTAR DEPORTES 3 HD", "MOVISTAR DEPORTES 3 FHD", "MOVISTAR DEPORTES", "M+ DEPORTES"]
+    "aliases": ["MOVISTAR DEPORTES 3", "M+ DEPORTES 3", "DEPORTES 3", "MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
   },
   {
     "name": "m+ deportes 4",
-    "aliases": ["MOVISTAR DEPORTES 4", "M+ DEPORTES 4", "MOVISTAR DEPORTES 4 HD", "MOVISTAR DEPORTES 4 FHD", "MOVISTAR DEPORTES", "M+ DEPORTES"]
+    "aliases": ["MOVISTAR DEPORTES 4", "M+ DEPORTES 4", "DEPORTES 4", "MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
   },
   {
     "name": "m+ deportes 5",
-    "aliases": ["MOVISTAR DEPORTES 5", "M+ DEPORTES 5", "MOVISTAR DEPORTES 5 HD", "MOVISTAR DEPORTES 5 FHD", "MOVISTAR DEPORTES", "M+ DEPORTES"]
+    "aliases": ["MOVISTAR DEPORTES 5", "M+ DEPORTES 5", "DEPORTES 5", "MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
   },
   {
     "name": "primera federacion",
-    "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+", "TV FOOTBALLCLUB", "PRIMERA FEDERACION FHD"]
+    "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+", "TV FOOTBALLCLUB"]
   },
   {
     "name": "eurosport",
