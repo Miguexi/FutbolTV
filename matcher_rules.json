@@ -22,6 +22,8 @@
       "alias": "m plus laliga",
       "strictNoNumbersIfGeneric": true
     },
+    {"alias": "m plus vamos", "ignoreNumberCheck": true},
+{"alias": "m plus deportes 6", "ignoreNumberCheck": true},
 {"alias": "m plus deportes", "strictNoNumbersIfGeneric": false},
 {
   "alias": "dazn",
