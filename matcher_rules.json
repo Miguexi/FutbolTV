@@ -10,6 +10,10 @@
       "allowMainOnly": true
     },
     {
+      "alias": "dazn motogp",
+      "ignoreNumberCheck": true
+    },
+    {
       "alias": "liga de campeones",
       "strictNoNumbersIfGeneric": false,
       "ignoreNumberCheck": false
