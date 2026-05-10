@@ -21,7 +21,7 @@
   },
   {
     "name": "dazn laliga",
-    "aliases": ["DAZN LALIGA", "DAZN LA LIGA", "DAZN LALIGA 1", "DAZN LALIGA 2", "DAZN LA LIGA 1", "DAZN LA LIGA 2"]
+    "aliases": ["DAZN LALIGA", "DAZN LA LIGA", "DAZN LALIGA 1", "DAZN LALIGA 2", "DAZN LA LIGA 1", "DAZN LA LIGA 2", "DAZN 1", "DAZN 2"]
   },
   {
     "name": "dazn",
@@ -29,7 +29,7 @@
   },
   {
     "name": "dazn f1",
-    "aliases": ["DAZN F1", "DAZN FORMULA 1"]
+    "aliases": ["DAZN F1", "DAZN FORMULA 1", "DAZN MOTOR"]
   },
   {
     "name": "m+ vamos",
@@ -37,7 +37,15 @@
   },
   {
     "name": "m+ deportes",
-    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES", "M DEPORTES"]
+    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
+  },
+  {
+    "name": "m+ deportes 4",
+    "aliases": ["M+ DEPORTES 4", "MOVISTAR DEPORTES 4"]
+  },
+  {
+    "name": "m+ deportes 5",
+    "aliases": ["M+ DEPORTES 5", "MOVISTAR DEPORTES 5"]
   },
   {
     "name": "eurosport",
@@ -49,6 +57,6 @@
   },
   {
     "name": "primera federacion",
-    "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+"]
+    "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+", "TV FOOTBALLCLUB"]
   }
 ]
