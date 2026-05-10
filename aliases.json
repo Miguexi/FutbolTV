@@ -13,7 +13,7 @@
   },
   {
     "name": "dazn motogp",
-    "aliases": ["DAZN MOTOGP", "DAZN 1", "DAZN 2", "DAZN MOTOR", "MOTOGP"]
+    "aliases": ["DAZN MOTOGP", "DAZN MOTOR", "MOTOGP VIDEOPASS", "MOTOGP", "DAZN 1", "DAZN 2"]
   },
   {
     "name": "movistar plus",
@@ -21,7 +21,7 @@
   },
   {
     "name": "dazn laliga",
-    "aliases": ["DAZN LALIGA", "DAZN LA LIGA", "DAZN LALIGA 1", "DAZN LALIGA 2", "DAZN LA LIGA 1", "DAZN LA LIGA 2", "DAZN 1", "DAZN 2"]
+    "aliases": ["DAZN LALIGA", "DAZN LA LIGA", "DAZN LALIGA 1", "DAZN LALIGA 2", "DAZN LA LIGA 1", "DAZN LA LIGA 2"]
   },
   {
     "name": "dazn",
@@ -29,7 +29,7 @@
   },
   {
     "name": "dazn f1",
-    "aliases": ["DAZN F1", "DAZN FORMULA 1", "DAZN MOTOR"]
+    "aliases": ["DAZN F1", "DAZN FORMULA 1"]
   },
   {
     "name": "m+ vamos",
@@ -37,14 +37,18 @@
   },
   {
     "name": "m+ deportes",
-    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES"]
+    "aliases": ["MOVISTAR DEPORTES", "M+ DEPORTES", "DEPORTES", "M DEPORTES"]
   },
   {
     "name": "eurosport",
-    "aliases": ["EUROSPORT 1", "EUROSPORT 2"]
+    "aliases": ["EUROSPORT 1", "EUROSPORT 2", "EUROSPORT"]
   },
   {
     "name": "hypermotion",
     "aliases": ["LALIGA TV HYPERMOTION", "LALIGA HYPERMOTION", "LIGA SMARTBANK", "HYPERMOTION"]
+  },
+  {
+    "name": "primera federacion",
+    "aliases": ["PRIMERA FEDERACIÓN", "PRIMERA FEDERACION", "LALIGA+ PLUS", "LALIGA+"]
   }
 ]
