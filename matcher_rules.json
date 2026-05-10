@@ -38,7 +38,7 @@
       "alias": "dazn",
       "excludeTerms": ["motogp", "f1", "motor", "barcelona", "victoria", "laliga", "la liga"],
       "strictNoNumbersIfGeneric": false,
-      "ignoreNumberCheck": true
+      "ignoreNumberCheck": false
     },
     {
       "alias": "dazn laliga",
