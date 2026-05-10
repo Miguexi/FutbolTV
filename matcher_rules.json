@@ -23,12 +23,12 @@
       "strictNoNumbersIfGeneric": true
     },
 {"alias": "m plus deportes", "strictNoNumbersIfGeneric": false},
-    {
-      "alias": "dazn",
-      "excludeTerms":["motogp", "f1", "motor", "barcelona", "victoria", "laliga", "la liga"],
-      "strictNoNumbersIfGeneric": true,
-      "allowMainOnly": true
-    },
+{
+  "alias": "dazn",
+  "excludeTerms": ["motogp", "f1", "motor", "barcelona", "victoria", "laliga", "la liga"],
+  "strictNoNumbersIfGeneric": false,
+  "allowMainOnly": true
+},
     {
       "alias": "dazn laliga",
       "ignoreNumberCheck": true
